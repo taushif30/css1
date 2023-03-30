@@ -1,0 +1,50 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+
+ol{
+    color: brown;
+    line-height: 50px;
+}
+
+.lt{
+    text-decoration:line-through;
+}
+
+.bg{
+    background-color: yellow;
+}
+
+.ul{
+    text-decoration: underline;
+}
+
+.cons2{
+    color: brown;
+    font-style: italic;
+}
+
+.ull{
+    color: brown;
+    letter-spacing: 5px;
+}
+
+.yl{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.para{
+    color: brown;
+}
+
+a{
+    background-color: yellow;
+    font-style: italic;
+    color: brown;
+    text-decoration: none;
+}
